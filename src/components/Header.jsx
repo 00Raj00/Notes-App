@@ -6,7 +6,7 @@ function Header() {
     <header>
       <h1>
         {/* <HighlightIcon /> */}
-        Notes App
+        QuickNotes
       </h1>
     </header>
   );
